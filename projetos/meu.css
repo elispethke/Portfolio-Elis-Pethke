@@ -175,11 +175,11 @@ section{
     background: var(--second-bg-color);
 }
 .about-img{
-    width:70vw;
+    width:60vw;
 }
 .heading{
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 2.5rem;
 }
 
 .about-content h2{
@@ -189,7 +189,7 @@ section{
 }
 
 .about-content h3{
-    font-size: 2.6rem;
+    font-size: 1.6rem;
     
 }
 
